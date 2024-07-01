@@ -10,7 +10,7 @@
 
  -It print results on screen with fetch api and async await.
 
- -The active link to the webpage is  https://zirongowwa.github.io/Phase-1-project/
+ -The active link to the webpage is  
 
  ### TECHNOLOGIES USED
 
